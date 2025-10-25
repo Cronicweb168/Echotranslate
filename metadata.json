@@ -1,0 +1,7 @@
+{
+  "name": "Copy of EchoTranslate AI",
+  "description": "A real-time audio transcription and translation application powered by the Gemini API. Speak into your microphone and watch as your words are transcribed and translated into your chosen language instantly.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
